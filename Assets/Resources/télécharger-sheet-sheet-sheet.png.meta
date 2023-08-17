@@ -1,0 +1,347 @@
+fileFormatVersion: 2
+guid: 2df2551e6b86fd345bd03657490d3b75
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "t\xE9l\xE9charger-sheet-sheet-sheet_0"
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 22
+        width: 14
+        height: 21
+      alignment: 9
+      pivot: {x: 0.4999989, y: 0.14944485}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c380757736d0714478a9965564debb00
+      internalID: -1554573038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "t\xE9l\xE9charger-sheet-sheet-sheet_1"
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 22
+        width: 6
+        height: 15
+      alignment: 9
+      pivot: {x: 0.4999949, y: 0.88793004}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e8453ade61e57b469ae3ac7906ec9fd
+      internalID: -985189277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "t\xE9l\xE9charger-sheet-sheet-sheet_2"
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 22
+        width: 6
+        height: 15
+      alignment: 9
+      pivot: {x: 0.24477641, y: 0.8675125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea8c66b19d4a6b54b98acad8321af967
+      internalID: -1844356133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "t\xE9l\xE9charger-sheet-sheet-sheet_3"
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 24
+        width: 9
+        height: 12
+      alignment: 9
+      pivot: {x: 0.47002494, y: 0.97210884}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 189d046dc558c6d4fbd7f2a208df2098
+      internalID: 778948922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "t\xE9l\xE9charger-sheet-sheet-sheet_4"
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 24
+        width: 9
+        height: 11
+      alignment: 9
+      pivot: {x: 0.44004992, y: 0.916927}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db2ea199695ae04c8c7799d52880cc2
+      internalID: -1994589122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "t\xE9l\xE9charger-sheet-sheet-sheet_5"
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 38
+        width: 25
+        height: 24
+      alignment: 9
+      pivot: {x: 0.49999756, y: 0.03529946}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ee055898b0c32c4a8ae79365bbae637
+      internalID: 1603318096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "t\xE9l\xE9charger-sheet-sheet-sheet_6"
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 1
+        width: 8
+        height: 11
+      alignment: 9
+      pivot: {x: 0.5000038, y: 1.0038533}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cdb87b5379246e4d83a06683ed79bd6
+      internalID: 1947710119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "t\xE9l\xE9charger-sheet-sheet-sheet_7"
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 1
+        width: 8
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.9046652}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71b6d2ca8d2aef145a7542d1803a136a
+      internalID: 764332866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "t\xE9l\xE9charger-sheet-sheet-sheet_8"
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 35
+        width: 12
+        height: 3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bcc5c15f30c36b48b04174bd3856502
+      internalID: 437428378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "t\xE9l\xE9charger-sheet-sheet-sheet_9"
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 12
+        width: 7
+        height: 26
+      alignment: 9
+      pivot: {x: 0.8783918, y: 0.8860589}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd3d43736f89ce54d8346626f4d74a16
+      internalID: -936460039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 0b724264bad908447af90288e091f645
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      "t\xE9l\xE9charger-sheet-sheet-sheet_0": -1554573038
+      "t\xE9l\xE9charger-sheet-sheet-sheet_1": -985189277
+      "t\xE9l\xE9charger-sheet-sheet-sheet_2": -1844356133
+      "t\xE9l\xE9charger-sheet-sheet-sheet_3": 778948922
+      "t\xE9l\xE9charger-sheet-sheet-sheet_4": -1994589122
+      "t\xE9l\xE9charger-sheet-sheet-sheet_5": 1603318096
+      "t\xE9l\xE9charger-sheet-sheet-sheet_6": 1947710119
+      "t\xE9l\xE9charger-sheet-sheet-sheet_7": 764332866
+      "t\xE9l\xE9charger-sheet-sheet-sheet_8": 437428378
+      "t\xE9l\xE9charger-sheet-sheet-sheet_9": -936460039
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
